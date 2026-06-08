@@ -1,2 +1,3 @@
-# srvdata2-web
-ScrumDev AI frontend (srvdata2-web)
+# TPL Salud Cita Frontend
+
+Este es el frontend del sistema de gestión de citas médicas para la clínica.
